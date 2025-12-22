@@ -10,11 +10,11 @@ export default function ContactPage() {
             Have questions or want to book a reservation? Send us a message!
           </p>
 
-          <form className="grid gap-4">
+          <form className="grid gap-4 text-gray-700">
             <input
               type="text"
               placeholder="Your Name"
-              className="border p-3 rounded-lg placeholder-gray-500"
+              className="border p-3 rounded-lg placeholder-gray-500 "
             />
             <input
               type="email"

@@ -29,7 +29,7 @@ export default function Home() {
           <Image src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092" alt="food" width={400} height={300}  className="w-full h-auto"/>
         </div>
         <div className="rounded-xl overflow-hidden shadow-lg">
-          <Image src="https://images.unsplash.com/photo-1553621042-f6e147245754" alt="food" width={400} height={300}  className="w-full h-auto"/>
+          <Image src="/img/food.jpeg" alt="food" width={400} height={300}  className="w-full h-[245px]"/>
         </div>
       </div>
         </div>
